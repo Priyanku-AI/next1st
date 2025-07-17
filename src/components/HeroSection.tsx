@@ -4,7 +4,7 @@ import { Button } from "./ui/moving-border";
 
 function HeroSection() {
   return (
-    <div>
+    <div className="border-2">
       <Spotlight
         className="-top-40 left-0 md:-top-20 md:left-60"
         fill="white"
